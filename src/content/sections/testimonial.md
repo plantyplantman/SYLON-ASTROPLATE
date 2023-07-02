@@ -5,23 +5,23 @@ description: "Don't just take our word for it - hear from some of our satisfied 
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
+  - name: "Jon Buscall"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Content Marketing is a commitment, not a campaign."
 
-  - name: "Marvin McKinney"
+  - name: "Ben Kunz"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Google will know that you are hungry for sushi before you do."
 
-  - name: "Marvin McKinney"
+  - name: "Amrita Sahasrabudhe"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Take a risk and keep testing, because what works today won’t work tomorrow, but what worked yesterday may work again."
 
-  - name: "Marvin McKinney"
+  - name: "Amrita Sahasrabudhe"
     designation: "Web Designer"
     avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+    content: "Take a risk and keep testing, because what works today won’t work tomorrow, but what worked yesterday may work again."
 ---
