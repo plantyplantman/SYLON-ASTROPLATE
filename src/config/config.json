@@ -30,7 +30,7 @@
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "https://github.com/zeon-studio/astroplate"
+    "link": "/contact"
   },
 
   "disqus": {
@@ -42,6 +42,6 @@
   "metadata": {
     "meta_author": "Sylon Pty Ltd",
     "meta_image": "/images/og-image.png",
-    "meta_description": "astro and tailwind boilerplate"
+    "meta_description": "Sylon Pty Ltd"
   }
 }
